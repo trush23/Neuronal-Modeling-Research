@@ -1,0 +1,43 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "units": "dimensionless",
+  "parameters": {
+    "a": 0.7,
+    "b": 0.8,
+    "epsilon": 0.08
+  },
+  "baseline_equilibrium": [
+    -1.199408035244035,
+    -0.6242600440550439
+  ],
+  "lower_hopf_current": 0.33128133745474575,
+  "upper_hopf_current": 1.418718662545254,
+  "hopf_linear_frequency": 0.043848269986363216,
+  "planar_hopf_coefficient": 0.0723018549747049,
+  "sampled_coexistence_currents": [
+    0.325,
+    0.33,
+    1.42,
+    1.425
+  ],
+  "unresolved_scan_runs": 0,
+  "reference_period_I_0p5": 39.47441498024207,
+  "radau_dop853_relative_period_difference": 8.992806499463768e-15,
+  "single_pulse_spike_counts": [
+    0,
+    1
+  ],
+  "paired_pulse_responding_sampled_gaps": [
+    40.0,
+    60.0,
+    80.0
+  ],
+  "singular_slow_time_period_I_0p5": 1.9519649056078185,
+  "accuracy_checks_passed": 13
+}

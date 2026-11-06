@@ -1,0 +1,14 @@
+check,observed_error,limit,passed
+Equilibrium residual across tested currents,1.1102230246251565e-15,1e-11,True
+Analytic versus finite-difference Jacobian,3.4612035459957724e-11,1e-08,True
+Trace zero at analytic Hopf points,4.996003610813204e-16,1e-11,True
+Hopf eigenvalue imaginary frequency,1.1102230246251565e-16,1e-10,True
+Hopf crossing slope versus finite difference,1.3218759420396964e-11,1e-07,True
+Complex Hopf eigenvector normalization,6.48556245459533e-19,1e-10,True
+Pulse return-to-rest maximum endpoint distance,1.807312143953211e-15,1e-08,True
+Independent singular-period quadratures,1.3322676295501878e-15,1e-10,True
+Slow-fast last3 maximum ISI CV,8.854111384364525e-13,1e-05,True
+Radau cycle section closure,1.949126352901001e-14,1e-08,True
+Tight Radau versus DOP853 relative period,8.992806499463768e-15,1e-08,True
+Tight RK45 versus Radau relative period,2.613576022270081e-12,1e-07,True
+Tight RK45 v trajectory discrepancy,2.754591443832055e-09,1e-05,True

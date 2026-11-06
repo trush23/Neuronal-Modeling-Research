@@ -1,0 +1,3 @@
+pulse_amplitude,duration,n_spikes,first_spike_time,sampled_peak_v,final_distance_to_rest
+0.2,1.0,0,,-1.0289512343381069,9.485749680535094e-16
+1.0,1.0,1,11.202681151186228,1.7824902443517472,1.807312143953211e-15
