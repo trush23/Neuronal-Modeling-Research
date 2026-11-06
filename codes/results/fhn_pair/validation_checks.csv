@@ -1,0 +1,11 @@
+check,error,limit,passed
+Coupling agrees with pair formula,1.1102230246251565e-16,1e-12,True
+Symmetric coupling sum zero,0.0,1e-12,True
+Identical voltages give zero coupling,0.0,1e-12,True
+Zero coupling equals independent neuron 1,9.429578951003492e-09,2e-06,True
+Zero coupling equals independent neuron 2,9.281867108246189e-09,2e-06,True
+Identical-state manifold,0.0,1e-12,True
+Global contraction upper bound excess,0.0,1e-08,True
+DOP853 versus Radau state difference,7.876049112898187e-08,1e-05,True
+Spike time convergence neuron 1,5.2830046115559526e-08,1e-05,True
+Spike time convergence neuron 2,5.2830046115559526e-08,1e-05,True

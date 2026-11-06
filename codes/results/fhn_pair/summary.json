@@ -1,0 +1,31 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "units": "dimensionless",
+  "a": 0.7,
+  "b": 0.8,
+  "epsilon": 0.08,
+  "isolated_period": 39.47441497889804,
+  "strengths": [
+    0.0,
+    0.005,
+    0.02,
+    0.05,
+    0.1,
+    0.3,
+    0.6
+  ],
+  "initial_phase_fractions": [
+    0.2,
+    0.5
+  ],
+  "duration": 1600.0,
+  "burn_in": 800.0,
+  "checks_passed": 10,
+  "experiment_count": 28,
+  "sufficient_identical_contraction_g_gt": 0.5
+}
