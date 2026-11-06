@@ -1,0 +1,11 @@
+check,observed_error,limit,passed
+Origin eigenvalue real/imaginary parts,1.0000056338554941e-12,1e-08,True
+Exact supercritical radial transients (3 μ),4.7727377605610855e-12,1e-08,True
+Subcritical scalar radial versus Cartesian,5.835015803867805e-10,1e-07,True
+Established-cycle max relative period error,2.2217339079588783e-11,1e-07,True
+Established-cycle max absolute radius error,1.7735406476759863e-09,1e-07,True
+Basin scan max endpoint error,8.732903461778027e-08,1e-06,True
+Finite pulse threshold endpoint residual,5.218048215738236e-15,1e-08,True
+Tight RK45 relative period error,3.573807916268379e-13,1e-08,True
+Small-step DOP853 relative period error,7.993605777301127e-15,1e-09,True
+Radial Floquet max absolute multiplier error,6.10142110446521e-11,1e-07,True

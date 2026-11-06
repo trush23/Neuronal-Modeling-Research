@@ -1,0 +1,41 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "time_units": "dimensionless",
+  "omega0": 2.0,
+  "shear": 0.5,
+  "beta": 1.0,
+  "subcritical_fold_mu": -0.25,
+  "analytic_bistability_width": 0.25,
+  "bistable_example_mu": -0.1,
+  "unstable_cycle_radius": 0.3357106870197288,
+  "stable_outer_cycle_radius": 0.9419651451198934,
+  "supercritical_frequency_limit": 0.3183098861837907,
+  "subcritical_outer_frequency_at_mu0": 0.3978873577297384,
+  "max_relative_cycle_period_error": 2.2217339079588783e-11,
+  "finite_pulse_duration": 0.25,
+  "finite_pulse_amplitude_threshold": 1.3652378604536541,
+  "hysteresis_seed": 0.01,
+  "hysteresis_switch_brackets": [
+    {
+      "dwell": 400.0,
+      "up_bracket_low": 0.0,
+      "up_bracket_high": 0.01,
+      "down_bracket_low": -0.26,
+      "down_bracket_high": -0.25
+    },
+    {
+      "dwell": 800.0,
+      "up_bracket_low": 0.0,
+      "up_bracket_high": 0.01,
+      "down_bracket_low": -0.26,
+      "down_bracket_high": -0.25
+    }
+  ],
+  "accuracy_checks_passed": 10
+}

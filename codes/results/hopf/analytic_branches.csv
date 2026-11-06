@@ -1,0 +1,9 @@
+model,mu,object,radius,stability,radial_exponent,cycle_frequency
+super,-0.1,origin,0.0,stable,,
+super,0.1,origin,0.0,unstable,,
+super,0.1,cycle,0.31622776601683794,stable,-0.2,0.3103521390291959
+sub,-0.1,origin,0.0,stable,,
+sub,-0.1,cycle,0.3357106870197288,unstable,0.17459666924148337,0.32727839975368955
+sub,-0.1,cycle,0.9419651451198934,stable,-1.374596669241484,0.38891884415983957
+sub,0.1,origin,0.0,unstable,,
+sub,0.1,cycle,1.0448004490379785,stable,-2.5832159566199224,0.4051772890170811
