@@ -1,0 +1,10 @@
+check,observed_error,limit,passed
+Baseline equilibrium residual,2.220446049250313e-16,1e-11,True
+Maximum ODE/quadrature relative period error,3.51788598251801e-11,1e-07,True
+Pulse threshold: ODE root versus quadrature,6.661338147750939e-16,1e-08,True
+Maximum finite-cutoff flight integration error,6.941891506073716e-12,1e-07,True
+Tight RK45 relative period error,3.092637257395836e-12,1e-08,True
+Tight RK45 maximum spike-time error,8.898837222659495e-11,1e-06,True
+Hold across input-boundary: next spike error,2.9753977059954195e-12,1e-07,True
+Held state exactly at reset,0.0,1e-12,True
+Pulse return-to-rest endpoint distance,4.757228122542756e-08,1e-06,True
