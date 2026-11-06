@@ -1,0 +1,7 @@
+layout,E_count,I_count,same_type_edge_fraction,cross_type_edge_fraction,E_components,E_largest_component,I_components,I_largest_component
+patch,18,18,0.75,0.25,1,18,1,18
+band,18,18,0.8333333333333334,0.16666666666666663,1,18,1,18
+stripes,18,18,0.5,0.5,3,6,3,6
+checker,18,18,0.0,1.0,18,1,18,1
+random_301,18,18,0.4166666666666667,0.5833333333333333,5,12,4,9
+random_302,18,18,0.4444444444444444,0.5555555555555556,4,9,3,16

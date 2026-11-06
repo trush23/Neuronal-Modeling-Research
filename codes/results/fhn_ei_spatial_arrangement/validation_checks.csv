@@ -1,0 +1,26 @@
+check,error,limit,passed
+Symmetric periodic adjacency,0.0,1e-12,True
+Exactly four neighbors,0.0,1e-12,True
+No self loops,0.0,1e-12,True
+patch: exactly 18 E and 18 I,0.0,0.5,True
+band: exactly 18 E and 18 I,0.0,0.5,True
+stripes: exactly 18 E and 18 I,0.0,0.5,True
+checker: exactly 18 E and 18 I,0.0,0.5,True
+random_301: exactly 18 E and 18 I,0.0,0.5,True
+random_302: exactly 18 E and 18 I,0.0,0.5,True
+Checkerboard all contacts cross type,0.0,1e-12,True
+Alternating stripes half contacts cross type,0.0,1e-12,True
+Broad band has 12 undirected cross contacts,3.552713678800501e-15,1e-12,True
+Neighbor-count histograms sum to N,0.0,0.5,True
+Ratio-one G identical across all layouts,0.0,1e-12,True
+Network-mean budget across layouts and ratios,1.3877787807814457e-17,1e-12,True
+"Sampled gates in [0,1]",0.0,1e-08,True
+Sampled activation inside reversals,0.0,1e-08,True
+Mean E input nonnegative,0.0,1e-10,True
+Mean I input nonpositive,0.0,1e-10,True
+Periodic translation preserves graph,0.0,1e-12,True
+Joint translation preserves trajectories,3.888611654900842e-12,2e-05,True
+Independent solvers on 0–200,3.174563611985093e-09,0.0002,True
+Independent event times on 0–200,2.071942617476452e-09,0.0002,True
+Tighter full-window state convergence,4.064489966815188e-08,0.002,True
+Tighter full-window event convergence,2.9597686079796404e-08,0.002,True
