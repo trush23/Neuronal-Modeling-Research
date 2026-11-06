@@ -1,0 +1,28 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "units": "dimensionless",
+  "reset": 0.0,
+  "cutoff": 1.0,
+  "refractory": 0.1,
+  "rheobase_drive": 1.0,
+  "benchmark_drive": 1.5,
+  "benchmark_period_exact": 1.1986122886681099,
+  "pulse_amplitude": 1.5,
+  "pulse_critical_duration": 1.0986122886681098,
+  "pulse_spike_counts": [
+    0,
+    1
+  ],
+  "summation_spike_counts": [
+    1,
+    0
+  ],
+  "max_relative_rate_curve_period_error": 4.0618508556633515e-11,
+  "accuracy_checks_passed": 6
+}

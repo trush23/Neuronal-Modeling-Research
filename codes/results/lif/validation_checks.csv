@@ -1,0 +1,7 @@
+check,observed_error,limit,passed
+Subthreshold flow versus exact exponential,6.657119300257364e-12,1e-08,True
+Maximum rate-curve relative period error,4.0618508556633515e-11,1e-07,True
+Tight RK45 relative period error,1.912359159916832e-12,1e-08,True
+Tight RK45 maximum spike-time error,1.148503514514232e-11,1e-07,True
+Hold across input-boundary: next spike error,2.6623148130511254e-13,1e-08,True
+Held state remains exactly at reset,0.0,1e-12,True
