@@ -1,0 +1,86 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "networkx": "3.7"
+  },
+  "sizes": [
+    18,
+    36,
+    72
+  ],
+  "degrees": [
+    4,
+    8,
+    12
+  ],
+  "strength_budgets": [
+    0.0,
+    0.04,
+    0.08,
+    0.16
+  ],
+  "graph_families": [
+    "ring",
+    "regular601",
+    "regular602"
+  ],
+  "graph_seeds": [
+    601,
+    602
+  ],
+  "source_seed": 301,
+  "phase_seeds": [
+    11,
+    29
+  ],
+  "graphs": 15,
+  "conductance_matrices": 28,
+  "design_conditions": 78,
+  "unique_main_runs": 56,
+  "checks_passed": 144,
+  "figures": 8,
+  "duration": 1000.0,
+  "burn": 400.0,
+  "sampling_step": 0.5,
+  "solver": {
+    "method": "DOP853",
+    "rtol": 1e-10,
+    "atol": 1e-12,
+    "max_step": 0.25
+  },
+  "parameters": {
+    "a": 0.7,
+    "b": 0.8,
+    "epsilon": 0.08,
+    "current": 0.5,
+    "alpha": 1.0,
+    "beta": 0.2,
+    "width": 0.1,
+    "E_E": 3.0,
+    "E_I": -3.0
+  },
+  "numerical_audits": [
+    {
+      "case": "72_4_regular601_0.08",
+      "independent_horizon": 200.0,
+      "independent_state_error": 2.947378896500652e-09,
+      "independent_event_error": 1.8662831280380487e-09,
+      "tighter_horizon": 1000.0,
+      "tighter_state_error": 2.9134468437774785e-07,
+      "tighter_event_error": 2.05356627702713e-07
+    },
+    {
+      "case": "36_12_ring_0.24",
+      "independent_horizon": 200.0,
+      "independent_state_error": 4.547438869906273e-09,
+      "independent_event_error": 2.752273076112033e-09,
+      "tighter_horizon": 1000.0,
+      "tighter_state_error": 4.023222976989871e-09,
+      "tighter_event_error": 2.725755621213466e-09
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "01_coupling_conventions.png": "Fixed total budget and fixed contact strength compared over degrees 4, 8 and 12: recipient coefficient sums and individual contact coefficients.",
+  "02_graph_structure_controls.png": "Clustering and mean shortest path for the realized ring and two random regular draws, across degree at N=36 and across size at degree 4.",
+  "03_degree_and_budget_dynamics.png": "Phase order, uncancelled input fraction and event frequency across degree 4, 8 and 12, under fixed budget versus fixed contact strength, with two initial phase fields.",
+  "04_finite_size_dynamics.png": "Finite-size comparison at N=18, 36 and 72, degree 4 and budget 0.08, showing phase order, uncancelled input fraction and event frequency.",
+  "05_coupling_strength_dynamics.png": "Coupling-budget comparison at N=36 and degree 4; phase order, input cancellation and event frequency. Cancellation is undefined at zero input.",
+  "06_matched_convention_contrasts.png": "Matched fixed-budget minus fixed-contact differences in phase order and local uncancelled input fraction for each graph and phase field.",
+  "07_ring_coupling_rasters.png": "Event rasters and E/I mean activation over time 800 to 1000 on the 36-node degree-4 ring at budgets 0.04, 0.08 and 0.16, phase seed 11.",
+  "08_accuracy_and_window_checks.png": "Selected independent Radau and tighter DOP853 state discrepancies, plus early versus later ring phase order and input cancellation at three coupling budgets."
+}

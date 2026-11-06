@@ -1,0 +1,145 @@
+check,error,limit,passed
+n18_k4_regular601: degree,0.0,1e-12,True
+n18_k4_regular601: simple symmetric,0.0,1e-12,True
+n18_k4_regular602: degree,0.0,1e-12,True
+n18_k4_regular602: simple symmetric,0.0,1e-12,True
+n18_k4_ring: degree,0.0,1e-12,True
+n18_k4_ring: simple symmetric,0.0,1e-12,True
+n36_k4_regular601: degree,0.0,1e-12,True
+n36_k4_regular601: simple symmetric,0.0,1e-12,True
+n36_k4_regular602: degree,0.0,1e-12,True
+n36_k4_regular602: simple symmetric,0.0,1e-12,True
+n36_k4_ring: degree,0.0,1e-12,True
+n36_k4_ring: simple symmetric,0.0,1e-12,True
+n36_k8_regular601: degree,0.0,1e-12,True
+n36_k8_regular601: simple symmetric,0.0,1e-12,True
+n36_k8_regular602: degree,0.0,1e-12,True
+n36_k8_regular602: simple symmetric,0.0,1e-12,True
+n36_k8_ring: degree,0.0,1e-12,True
+n36_k8_ring: simple symmetric,0.0,1e-12,True
+n36_k12_regular601: degree,0.0,1e-12,True
+n36_k12_regular601: simple symmetric,0.0,1e-12,True
+n36_k12_regular602: degree,0.0,1e-12,True
+n36_k12_regular602: simple symmetric,0.0,1e-12,True
+n36_k12_ring: degree,0.0,1e-12,True
+n36_k12_ring: simple symmetric,0.0,1e-12,True
+n72_k4_regular601: degree,0.0,1e-12,True
+n72_k4_regular601: simple symmetric,0.0,1e-12,True
+n72_k4_regular602: degree,0.0,1e-12,True
+n72_k4_regular602: simple symmetric,0.0,1e-12,True
+n72_k4_ring: degree,0.0,1e-12,True
+n72_k4_ring: simple symmetric,0.0,1e-12,True
+Coefficients 0: row/column sums,0.0,1e-12,True
+Coefficients 0: support/weight,0.0,1e-12,True
+Coefficients 1: row/column sums,0.0,1e-12,True
+Coefficients 1: support/weight,0.0,1e-12,True
+Coefficients 2: row/column sums,0.0,1e-12,True
+Coefficients 2: support/weight,0.0,1e-12,True
+Coefficients 3: row/column sums,0.0,1e-12,True
+Coefficients 3: support/weight,0.0,1e-12,True
+Coefficients 4: row/column sums,0.0,1e-12,True
+Coefficients 4: support/weight,0.0,1e-12,True
+Coefficients 5: row/column sums,0.0,1e-12,True
+Coefficients 5: support/weight,0.0,1e-12,True
+Coefficients 6: row/column sums,1.3877787807814457e-17,1e-12,True
+Coefficients 6: support/weight,0.0,1e-12,True
+Coefficients 7: row/column sums,2.7755575615628914e-17,1e-12,True
+Coefficients 7: support/weight,0.0,1e-12,True
+Coefficients 8: row/column sums,1.3877787807814457e-17,1e-12,True
+Coefficients 8: support/weight,0.0,1e-12,True
+Coefficients 9: row/column sums,2.7755575615628914e-17,1e-12,True
+Coefficients 9: support/weight,0.0,1e-12,True
+Coefficients 10: row/column sums,1.3877787807814457e-17,1e-12,True
+Coefficients 10: support/weight,0.0,1e-12,True
+Coefficients 11: row/column sums,2.7755575615628914e-17,1e-12,True
+Coefficients 11: support/weight,0.0,1e-12,True
+Coefficients 12: row/column sums,0.0,1e-12,True
+Coefficients 12: support/weight,0.0,1e-12,True
+Coefficients 13: row/column sums,5.551115123125783e-17,1e-12,True
+Coefficients 13: support/weight,0.0,1e-12,True
+Coefficients 14: row/column sums,0.0,1e-12,True
+Coefficients 14: support/weight,0.0,1e-12,True
+Coefficients 15: row/column sums,5.551115123125783e-17,1e-12,True
+Coefficients 15: support/weight,0.0,1e-12,True
+Coefficients 16: row/column sums,0.0,1e-12,True
+Coefficients 16: support/weight,0.0,1e-12,True
+Coefficients 17: row/column sums,5.551115123125783e-17,1e-12,True
+Coefficients 17: support/weight,0.0,1e-12,True
+Coefficients 18: row/column sums,0.0,1e-12,True
+Coefficients 18: support/weight,0.0,1e-12,True
+Coefficients 19: row/column sums,0.0,1e-12,True
+Coefficients 19: support/weight,0.0,1e-12,True
+Coefficients 20: row/column sums,0.0,1e-12,True
+Coefficients 20: support/weight,0.0,1e-12,True
+Coefficients 21: row/column sums,0.0,1e-12,True
+Coefficients 21: support/weight,0.0,1e-12,True
+Coefficients 22: row/column sums,0.0,1e-12,True
+Coefficients 22: support/weight,0.0,1e-12,True
+Coefficients 23: row/column sums,0.0,1e-12,True
+Coefficients 23: support/weight,0.0,1e-12,True
+Coefficients 24: row/column sums,0.0,1e-12,True
+Coefficients 24: support/weight,0.0,1e-12,True
+Coefficients 25: row/column sums,0.0,1e-12,True
+Coefficients 25: support/weight,0.0,1e-12,True
+Coefficients 26: row/column sums,0.0,1e-12,True
+Coefficients 26: support/weight,0.0,1e-12,True
+Coefficients 27: row/column sums,0.0,1e-12,True
+Coefficients 27: support/weight,0.0,1e-12,True
+Coefficients 28: row/column sums,0.0,1e-12,True
+Coefficients 28: support/weight,0.0,1e-12,True
+Coefficients 29: row/column sums,0.0,1e-12,True
+Coefficients 29: support/weight,0.0,1e-12,True
+Coefficients 30: row/column sums,0.0,1e-12,True
+Coefficients 30: support/weight,0.0,1e-12,True
+Coefficients 31: row/column sums,0.0,1e-12,True
+Coefficients 31: support/weight,0.0,1e-12,True
+Coefficients 32: row/column sums,0.0,1e-12,True
+Coefficients 32: support/weight,0.0,1e-12,True
+Coefficients 33: row/column sums,0.0,1e-12,True
+Coefficients 33: support/weight,0.0,1e-12,True
+Coefficients 34: row/column sums,0.0,1e-12,True
+Coefficients 34: support/weight,0.0,1e-12,True
+Coefficients 35: row/column sums,0.0,1e-12,True
+Coefficients 35: support/weight,0.0,1e-12,True
+Coefficients 36: row/column sums,0.0,1e-12,True
+Coefficients 36: support/weight,0.0,1e-12,True
+Coefficients 37: row/column sums,0.0,1e-12,True
+Coefficients 37: support/weight,0.0,1e-12,True
+Coefficients 38: row/column sums,0.0,1e-12,True
+Coefficients 38: support/weight,0.0,1e-12,True
+N=18: exact half E/I,0.0,0.5,True
+N=36: exact half E/I,0.0,0.5,True
+N=72: exact half E/I,0.0,0.5,True
+78 design labels,0.0,0.5,True
+56 unique main conditions,0.0,0.5,True
+Zero k=4 convention contrasts,0.0,1e-12,True
+ring/11: conventions reuse one run,0.0,0.5,True
+ring/29: conventions reuse one run,0.0,0.5,True
+regular601/11: conventions reuse one run,0.0,0.5,True
+regular601/29: conventions reuse one run,0.0,0.5,True
+regular602/11: conventions reuse one run,0.0,0.5,True
+regular602/29: conventions reuse one run,0.0,0.5,True
+Zero coupling phase 11: one shared run,0.0,0.5,True
+Zero coupling phase 11: analytic phase order,5.0681681074138396e-14,2e-05,True
+Zero coupling phase 11: no input,0.0,1e-14,True
+Zero coupling phase 11: C undefined,0.0,0.5,True
+Zero coupling phase 29: one shared run,0.0,0.5,True
+Zero coupling phase 29: analytic phase order,8.553435737468362e-13,2e-05,True
+Zero coupling phase 29: no input,0.0,1e-14,True
+Zero coupling phase 29: C undefined,0.0,0.5,True
+"Sampled gates [0,1]",0.0,1e-08,True
+Sampled activation inside reversals,0.0,1e-08,True
+Mean E current nonnegative,0.0,1e-10,True
+Mean I current nonpositive,0.0,1e-10,True
+"Phase orders in [0,1]",0.0,1e-12,True
+72_4_regular601_0.08: independent state 0–200,2.947378896500652e-09,0.0002,True
+72_4_regular601_0.08: independent event 0–200,1.8662831280380487e-09,0.0002,True
+72_4_regular601_0.08: tighter state 0–1000,2.9134468437774785e-07,0.002,True
+72_4_regular601_0.08: tighter event 0–1000,2.05356627702713e-07,0.002,True
+36_12_ring_0.24: independent state 0–200,4.547438869906273e-09,0.0002,True
+36_12_ring_0.24: independent event 0–200,2.752273076112033e-09,0.0002,True
+36_12_ring_0.24: tighter state 0–1000,4.023222976989871e-09,0.002,True
+36_12_ring_0.24: tighter event 0–1000,2.725755621213466e-09,0.002,True
+B=0.04: early event support unchanged,0.0,1e-12,True
+B=0.08: early event support unchanged,0.0,1e-12,True
+B=0.16: early event support unchanged,0.0,1e-12,True
