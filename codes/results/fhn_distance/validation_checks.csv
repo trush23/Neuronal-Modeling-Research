@@ -1,0 +1,31 @@
+check,error,limit,passed
+open: symmetric metric,0.0,1e-12,True
+open: zero metric diagonal,0.0,1e-12,True
+open: R1 equals adjacency p=1,0.0,1e-12,True
+open: R1 equals adjacency p=2,0.0,1e-12,True
+open: R1 equals adjacency p=3,0.0,1e-12,True
+open: raw symmetry,0.0,1e-12,True
+open: no self coupling,0.0,1e-12,True
+open: full edge count,0.0,0.5,True
+open: row normalization,4.440892098500626e-16,1e-12,True
+open: summed diffusion,4.440892098500626e-16,1e-10,True
+open: cutoff exclusion,0.0,1e-12,True
+periodic: symmetric metric,0.0,1e-12,True
+periodic: zero metric diagonal,0.0,1e-12,True
+periodic: R1 equals adjacency p=1,0.0,1e-12,True
+periodic: R1 equals adjacency p=2,0.0,1e-12,True
+periodic: R1 equals adjacency p=3,0.0,1e-12,True
+periodic: raw symmetry,0.0,1e-12,True
+periodic: no self coupling,0.0,1e-12,True
+periodic: full edge count,0.0,0.5,True
+periodic: row normalization,2.220446049250313e-16,1e-12,True
+periodic: summed diffusion,7.549516567451064e-15,1e-10,True
+periodic: cutoff exclusion,0.0,1e-12,True
+Open opposite corners,0.0,1e-12,True
+Periodic opposite corners,0.0,1e-12,True
+Inverse square at diagonal neighbor,5.551115123125783e-17,1e-12,True
+Isolated normalized row,0.0,1e-12,True
+Reject coincident distinct nodes,0.0,0.5,True
+R1 trajectory equals adjacency,0.0,2e-06,True
+Full p2 tighter tolerance state,4.647835213367202e-07,0.0002,True
+Full p2 tighter tolerance events,3.060831659240648e-07,0.0002,True
