@@ -1,0 +1,13 @@
+# Notebook 17: degree-preserving rewiring and E/I controls
+
+Open `17_fhn_ei_degree_rewiring.ipynb` in Jupyter with a Python kernel containing NumPy, SciPy, pandas, Matplotlib, NetworkX and IPython. The delivered notebook has saved executed outputs; `17_fhn_ei_degree_rewiring.html` is a static reading copy. Earlier notebooks are not required at runtime.
+
+Run all cells from the directory containing the notebook to reproduce. Results are written under `results/fhn_ei_degree_rewiring/`, replacing that notebook's prior results. Preserve an archived copy before rerunning with changed parameters or software versions. Actual kernel versions are recorded in `summary.json`.
+
+All 13 graphs are connected, simple, degree 4 with 36 nodes and 72 edges. Every directed synaptic contact has coefficient 0.02. Three seeded paths start from the same ring for each of two rules: ordinary connected double-edge swaps, and swaps that additionally preserve every node's E/I neighbor counts for source assignment 301. Save snapshots after 18 and 144 accepted swaps. Source assignment 301 is studied on all graphs with two phase fields (26 conditions); assignment 302 is studied on the base and ordinary paths only (14 supplementary conditions). The shared base is not counted repeatedly as independent data.
+
+The notebook specifies the proposal rule exactly and records all attempted swaps, rejections, accepted counts, and frozen adjacency/conductance matrices. `swap_proposals.csv` can replay the accepted history from the base. `graph_structure.csv` records graph hashes, clustering, path length, and the fraction of base edges replaced; accepted swap count is not that edge fraction. `node_source_contacts.csv` records each node's E/I contacts under both assignments. Constraints apply specifically to assignment 301.
+
+Inspect `condition_metrics.csv`, `node_metrics.csv`, `spike_events.csv`, `initial_states.csv`, `window_sensitivity.csv` and `validation_checks.csv` for dynamical results and validation. Delta metrics subtract the base with the same source assignment and phase field. The early observation-window audit retains the original trajectory's event support. Rewiring snapshots and shared-baseline contrasts are correlated; no confidence intervals or uniform graph-ensemble claims are made.
+
+The continuous FHN model uses dimensionless units. Preserving degrees and local E/I coefficient exposure does not preserve actual gated currents, collective behavior or asymptotic stability. Exact seed reproducibility depends on recorded package versions; the frozen matrices and proposal logs define the delivered realization.
