@@ -1,0 +1,17 @@
+check,error,limit,passed
+Clamped gate v=-1,4.4614312244561916e-13,1e-09,True
+Clamped gate v=1,1.6725509865977983e-12,1e-09,True
+Presynaptic reversal-column convention,2.7755575615628914e-17,1e-12,True
+Reversal gives zero input,0.0,1e-12,True
+Positive E input within reversal bracket,0.0,0.5,True
+Negative I input within reversal bracket,0.0,0.5,True
+"Sampled gates in [0,1]",0.0,1e-08,True
+Observed v above I reversal,0.0,1e-08,True
+Observed v below E reversal,0.0,1e-08,True
+"One-way source independent: I2=0.2, E",5.007043668570077e-09,2e-05,True
+"One-way source independent: I2=0.2, I",5.364797495133189e-11,2e-05,True
+"One-way source independent: I2=0.5, E",4.690272170648768e-09,2e-05,True
+"One-way source independent: I2=0.5, I",9.335285433564877e-09,2e-05,True
+Zero coupling independent of reversal types,0.0,1e-12,True
+DOP853 versus Radau state convergence,3.0748692703141955e-08,0.0002,True
+DOP853 versus Radau spike times,2.053843672911171e-08,0.0002,True

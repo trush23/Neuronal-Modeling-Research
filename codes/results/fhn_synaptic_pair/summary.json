@@ -1,0 +1,36 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "units": "dimensionless",
+  "parameters": {
+    "a": 0.7,
+    "b": 0.8,
+    "epsilon": 0.08,
+    "alpha": 1.0,
+    "beta": 0.2,
+    "release_threshold": 0.0,
+    "release_width": 0.1,
+    "reversals": {
+      "E": 3.0,
+      "I": -3.0
+    }
+  },
+  "duration": 1000.0,
+  "burn_in": 400.0,
+  "step": 0.2,
+  "one_way_experiments": 6,
+  "reciprocal_experiments": 24,
+  "checks_passed": 16,
+  "state_convergence_error": 3.0748692703141955e-08,
+  "event_convergence_error": 2.053843672911171e-08,
+  "sampled_v_range": [
+    -1.9954107592183583,
+    1.9430555202499762
+  ],
+  "isolated_period": 39.47441498023568
+}
