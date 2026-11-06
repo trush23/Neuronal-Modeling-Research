@@ -1,0 +1,40 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "units": "dimensionless",
+  "parameters": {
+    "a": 1.0,
+    "b": 3.0,
+    "c": 1.0,
+    "d": 5.0,
+    "s": 4.0,
+    "x_R": -1.6,
+    "r": 0.006
+  },
+  "initial_condition": [
+    -1.6,
+    -12.0,
+    3.0
+  ],
+  "analysis_window": [
+    2000.0,
+    6000.0
+  ],
+  "default_grouping_gap": 50.0,
+  "regular_example_I": 2.0,
+  "regular_group_size": 2,
+  "regular_group_period_reference": 128.50484459965924,
+  "regular_example_isi_cv": 0.7792847124536353,
+  "tonic_example_I": 4.0,
+  "tonic_period_reference": 20.127868468616658,
+  "tonic_method_relative_difference": 1.1122214260694818e-12,
+  "group_method_relative_difference": 2.8436142329724134e-12,
+  "irregular_example_I": 3.25,
+  "chaos_diagnosis": "not performed; descriptive irregularity only",
+  "accuracy_checks_passed": 13
+}
