@@ -1,0 +1,14 @@
+graph,kind,swap_seed,accepted_swaps,attempts
+base,baseline,0,0,0
+ordinary_501_18,ordinary,501,18,19
+ordinary_501_144,ordinary,501,144,173
+ordinary_502_18,ordinary,502,18,20
+ordinary_502_144,ordinary,502,144,178
+ordinary_503_18,ordinary,503,18,24
+ordinary_503_144,ordinary,503,144,185
+ei_preserving_501_18,ei_preserving,501,18,106
+ei_preserving_501_144,ei_preserving,501,144,737
+ei_preserving_502_18,ei_preserving,502,18,110
+ei_preserving_502_144,ei_preserving,502,144,772
+ei_preserving_503_18,ei_preserving,503,18,94
+ei_preserving_503_144,ei_preserving,503,144,755

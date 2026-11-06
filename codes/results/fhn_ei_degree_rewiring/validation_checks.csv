@@ -1,0 +1,84 @@
+check,error,limit,passed
+base: simple symmetric adjacency,0.0,1e-12,True
+base: degree four,0.0,1e-12,True
+base: connected,0.0,0.5,True
+base: row budget and edge strength,0.0,1e-12,True
+ordinary_501_18: simple symmetric adjacency,0.0,1e-12,True
+ordinary_501_18: degree four,0.0,1e-12,True
+ordinary_501_18: connected,0.0,0.5,True
+ordinary_501_18: row budget and edge strength,0.0,1e-12,True
+ordinary_501_144: simple symmetric adjacency,0.0,1e-12,True
+ordinary_501_144: degree four,0.0,1e-12,True
+ordinary_501_144: connected,0.0,0.5,True
+ordinary_501_144: row budget and edge strength,0.0,1e-12,True
+ordinary_502_18: simple symmetric adjacency,0.0,1e-12,True
+ordinary_502_18: degree four,0.0,1e-12,True
+ordinary_502_18: connected,0.0,0.5,True
+ordinary_502_18: row budget and edge strength,0.0,1e-12,True
+ordinary_502_144: simple symmetric adjacency,0.0,1e-12,True
+ordinary_502_144: degree four,0.0,1e-12,True
+ordinary_502_144: connected,0.0,0.5,True
+ordinary_502_144: row budget and edge strength,0.0,1e-12,True
+ordinary_503_18: simple symmetric adjacency,0.0,1e-12,True
+ordinary_503_18: degree four,0.0,1e-12,True
+ordinary_503_18: connected,0.0,0.5,True
+ordinary_503_18: row budget and edge strength,0.0,1e-12,True
+ordinary_503_144: simple symmetric adjacency,0.0,1e-12,True
+ordinary_503_144: degree four,0.0,1e-12,True
+ordinary_503_144: connected,0.0,0.5,True
+ordinary_503_144: row budget and edge strength,0.0,1e-12,True
+ei_preserving_501_18: simple symmetric adjacency,0.0,1e-12,True
+ei_preserving_501_18: degree four,0.0,1e-12,True
+ei_preserving_501_18: connected,0.0,0.5,True
+ei_preserving_501_18: row budget and edge strength,0.0,1e-12,True
+ei_preserving_501_18: per-node E exposure preserved,0.0,1e-12,True
+ei_preserving_501_144: simple symmetric adjacency,0.0,1e-12,True
+ei_preserving_501_144: degree four,0.0,1e-12,True
+ei_preserving_501_144: connected,0.0,0.5,True
+ei_preserving_501_144: row budget and edge strength,0.0,1e-12,True
+ei_preserving_501_144: per-node E exposure preserved,0.0,1e-12,True
+ei_preserving_502_18: simple symmetric adjacency,0.0,1e-12,True
+ei_preserving_502_18: degree four,0.0,1e-12,True
+ei_preserving_502_18: connected,0.0,0.5,True
+ei_preserving_502_18: row budget and edge strength,0.0,1e-12,True
+ei_preserving_502_18: per-node E exposure preserved,0.0,1e-12,True
+ei_preserving_502_144: simple symmetric adjacency,0.0,1e-12,True
+ei_preserving_502_144: degree four,0.0,1e-12,True
+ei_preserving_502_144: connected,0.0,0.5,True
+ei_preserving_502_144: row budget and edge strength,0.0,1e-12,True
+ei_preserving_502_144: per-node E exposure preserved,0.0,1e-12,True
+ei_preserving_503_18: simple symmetric adjacency,0.0,1e-12,True
+ei_preserving_503_18: degree four,0.0,1e-12,True
+ei_preserving_503_18: connected,0.0,0.5,True
+ei_preserving_503_18: row budget and edge strength,0.0,1e-12,True
+ei_preserving_503_18: per-node E exposure preserved,0.0,1e-12,True
+ei_preserving_503_144: simple symmetric adjacency,0.0,1e-12,True
+ei_preserving_503_144: degree four,0.0,1e-12,True
+ei_preserving_503_144: connected,0.0,0.5,True
+ei_preserving_503_144: row budget and edge strength,0.0,1e-12,True
+ei_preserving_503_144: per-node E exposure preserved,0.0,1e-12,True
+Replay degree,0.0,1e-12,True
+Replay E/I contacts,0.0,1e-12,True
+Replay legal edge support,0.0,1e-12,True
+Replay connectivity,0.0,1e-12,True
+Replay checkpoints,0.0,1e-12,True
+Replay proposal counters,0.0,1e-12,True
+random_301: 18 E sources,0.0,0.5,True
+random_302: 18 E sources,0.0,0.5,True
+40 conditions,0.0,0.5,True
+Four shared baseline conditions,0.0,0.5,True
+Zero baseline delta phase_order_all,0.0,1e-12,True
+Zero baseline delta local_uncancelled_fraction,0.0,1e-12,True
+Zero baseline delta mean_count_frequency,0.0,1e-12,True
+Zero baseline delta state_spread,0.0,1e-12,True
+"Sampled gates [0,1]",0.0,1e-08,True
+Sampled activation within reversals,0.0,1e-08,True
+Mean E current nonnegative,0.0,1e-10,True
+Mean I current nonpositive,0.0,1e-10,True
+Independent states 0–200,3.6622203047897983e-09,0.0002,True
+Independent events 0–200,3.530971071086242e-09,0.0002,True
+Tighter states 0–1000,1.521587789099499e-08,0.002,True
+Tighter events 0–1000,1.1355382412148174e-08,0.002,True
+base: early phase support consistent,0.0,1e-12,True
+ordinary_501_144: early phase support consistent,0.0,1e-12,True
+ei_preserving_501_144: early phase support consistent,0.0,1e-12,True
