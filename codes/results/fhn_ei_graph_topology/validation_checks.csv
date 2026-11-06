@@ -1,0 +1,68 @@
+check,error,limit,passed
+torus: node count,0.0,0.5,True
+torus: simple undirected,0.0,1e-12,True
+torus: recipient budget,0.0,1e-12,True
+torus: support preserved,0.0,1e-12,True
+ring4: node count,0.0,0.5,True
+ring4: simple undirected,0.0,1e-12,True
+ring4: recipient budget,0.0,1e-12,True
+ring4: support preserved,0.0,1e-12,True
+regular401: node count,0.0,0.5,True
+regular401: simple undirected,0.0,1e-12,True
+regular401: recipient budget,0.0,1e-12,True
+regular401: support preserved,0.0,1e-12,True
+regular402: node count,0.0,0.5,True
+regular402: simple undirected,0.0,1e-12,True
+regular402: recipient budget,0.0,1e-12,True
+regular402: support preserved,0.0,1e-12,True
+gnm401: node count,0.0,0.5,True
+gnm401: simple undirected,0.0,1e-12,True
+gnm401: recipient budget,1.3877787807814457e-17,1e-12,True
+gnm401: support preserved,0.0,1e-12,True
+gnm402: node count,0.0,0.5,True
+gnm402: simple undirected,0.0,1e-12,True
+gnm402: recipient budget,1.3877787807814457e-17,1e-12,True
+gnm402: support preserved,0.0,1e-12,True
+bipartite4: node count,0.0,0.5,True
+bipartite4: simple undirected,0.0,1e-12,True
+bipartite4: recipient budget,0.0,1e-12,True
+bipartite4: support preserved,0.0,1e-12,True
+complete: node count,0.0,0.5,True
+complete: simple undirected,0.0,1e-12,True
+complete: recipient budget,1.3877787807814457e-17,1e-12,True
+complete: support preserved,0.0,1e-12,True
+complete_bipartite: node count,0.0,0.5,True
+complete_bipartite: simple undirected,0.0,1e-12,True
+complete_bipartite: recipient budget,1.3877787807814457e-17,1e-12,True
+complete_bipartite: support preserved,0.0,1e-12,True
+torus: degree four,0.0,1e-12,True
+torus: edge coefficient .02,0.0,1e-12,True
+ring4: degree four,0.0,1e-12,True
+ring4: edge coefficient .02,0.0,1e-12,True
+regular401: degree four,0.0,1e-12,True
+regular401: edge coefficient .02,0.0,1e-12,True
+regular402: degree four,0.0,1e-12,True
+regular402: edge coefficient .02,0.0,1e-12,True
+bipartite4: degree four,0.0,1e-12,True
+bipartite4: edge coefficient .02,0.0,1e-12,True
+gnm401: 72 edges,0.0,0.5,True
+gnm402: 72 edges,0.0,0.5,True
+random_301: 18 E sources,0.0,0.5,True
+random_302: 18 E sources,0.0,0.5,True
+aligned: 18 E sources,0.0,0.5,True
+40 conditions,0.0,0.5,True
+"Sampled gates in [0,1]",0.0,1e-08,True
+Sampled v inside reversals,0.0,1e-08,True
+E current nonnegative,0.0,1e-10,True
+I current nonpositive,0.0,1e-10,True
+Aligned bipartite has C=1,0.0,1e-10,True
+Isolated recipient normalization,0.0,1e-12,True
+Joint node-relabel equivariance of RHS,0.0,1e-12,True
+Independent solver states 0–200,4.241887063827221e-09,0.0002,True
+Independent event times 0–200,1.1966250212935847e-09,0.0002,True
+Tighter states 0–1000,3.578447826946274e-08,0.002,True
+Tighter event times 0–1000,2.3364805201708805e-08,0.002,True
+Components partition all nodes,0.0,0.5,True
+Component frequencies reconcile globally,6.938893903907228e-18,1e-12,True
+"G(n,m)401 component sizes 35 and 1",0.0,0.5,True
+Connected-component phase matches global,2.220446049250313e-16,1e-12,True
