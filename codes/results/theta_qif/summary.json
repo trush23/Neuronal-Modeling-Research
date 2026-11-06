@@ -1,0 +1,23 @@
+{
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.2.6",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "time_units": "dimensionless",
+  "drive_sweep_min": 0.001,
+  "drive_sweep_max": 1.0,
+  "drive_sweep_count": 17,
+  "rate_slope": 0.4999999999764121,
+  "max_relative_period_error": 3.024245298632877e-10,
+  "critical_pulse_duration_exact": 1.7408395027342063,
+  "critical_pulse_duration_numeric": 1.740839502733399,
+  "pulse_spike_counts": [
+    0,
+    1
+  ],
+  "validation_checks_passed": 10,
+  "L10_relative_frequency_bias": 0.0328492567822114
+}

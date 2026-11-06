@@ -1,0 +1,3 @@
+case,duration,duration_over_critical,v_at_pulse_end,n_spikes,first_spike_time
+Below threshold,1.392671602187365,0.8,0.2736814900004269,0,
+Above threshold,2.0890074032810473,1.2,0.824126183024719,1,8.496382545810409

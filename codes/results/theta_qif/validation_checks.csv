@@ -1,0 +1,11 @@
+check,observed_error,limit,passed
+"Coordinate agreement, nonsingular interval",3.3579361513602635e-11,1e-08,True
+Direct QIF versus exact trajectory,7.450373651352038e-12,1e-08,True
+Threshold algebraic trajectory,1.3062334547342402e-10,1e-08,True
+Max rate-sweep relative period error,3.024245298632877e-10,1e-07,True
+Rate scaling exponent |slope - 0.5|,2.3587909403488538e-11,1e-06,True
+Pulse-duration relative threshold error,4.637401573859279e-13,1e-08,True
+Tight RK45 relative period error,2.591327152856593e-11,1e-08,True
+Tight DOP853 relative period error,1.297850715786808e-13,1e-09,True
+Max finite-QIF relative integration error,4.2092995755638185e-12,1e-08,True
+Independent quadrature relative period error,0.0,1e-10,True
