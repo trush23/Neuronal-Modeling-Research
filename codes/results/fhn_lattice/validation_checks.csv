@@ -1,0 +1,25 @@
+check,error,limit,passed
+open: symmetry,0.0,1e-12,True
+open: zero diagonal,0.0,1e-12,True
+open: Laplacian row sum,0.0,1e-12,True
+open: exact edge count,0.0,0.5,True
+open: spectral formula,6.661338147750939e-16,1e-12,True
+open: summed raw diffusion,0.0,1e-10,True
+open: normalized row sum,0.0,1e-12,True
+open: degree-weighted conservation,1.8758328224066645e-12,1e-09,True
+periodic: symmetry,0.0,1e-12,True
+periodic: zero diagonal,0.0,1e-12,True
+periodic: Laplacian row sum,0.0,1e-12,True
+periodic: exact edge count,0.0,0.5,True
+periodic: spectral formula,1.4432899320127035e-15,1e-12,True
+periodic: summed raw diffusion,0.0,1e-10,True
+periodic: normalized row sum,0.0,1e-12,True
+periodic: degree-weighted conservation,0.0,1e-09,True
+Periodic weight matching g=.1 / .4,0.0,1e-12,True
+Periodic matched trajectories,0.0,2e-06,True
+Independent recovery node 0,1.263009954399763e-07,2e-05,True
+Independent recovery node 35,1.1926868914713395e-07,2e-05,True
+Normalized synchronous manifold,2.1649348980190553e-14,1e-10,True
+Node relabeling covariance,3.5028491218724866e-10,2e-05,True
+Tighter DOP853 state convergence,4.533669044626265e-07,0.0002,True
+Tighter DOP853 event convergence,3.155485046590911e-07,0.0002,True

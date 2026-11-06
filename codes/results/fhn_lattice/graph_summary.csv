@@ -1,0 +1,3 @@
+boundary,nodes,undirected_edges,min_degree,max_degree,lambda2,sufficient_raw_g_gt
+open,36,60,2.0,4.0,0.2679491924311219,3.7320508075688883
+periodic,36,72,4.0,4.0,0.9999999999999983,1.0000000000000018
