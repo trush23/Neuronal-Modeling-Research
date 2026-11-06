@@ -1,0 +1,42 @@
+check,error,limit,passed
+open: symmetric distance,0.0,1e-12,True
+open: radius-one equals NN adjacency,0.0,1e-12,True
+"open, nearest: no self input",0.0,1e-12,True
+"open, nearest: raw symmetry",0.0,1e-12,True
+"open, nearest: recipient budget",1.3877787807814457e-17,1e-12,True
+"open, p2_R2: no self input",0.0,1e-12,True
+"open, p2_R2: raw symmetry",0.0,1e-12,True
+"open, p2_R2: recipient budget",1.3877787807814457e-17,1e-12,True
+"open, p2_full: no self input",0.0,1e-12,True
+"open, p2_full: raw symmetry",0.0,1e-12,True
+"open, p2_full: recipient budget",2.7755575615628914e-17,1e-12,True
+periodic: symmetric distance,0.0,1e-12,True
+periodic: radius-one equals NN adjacency,0.0,1e-12,True
+"periodic, nearest: no self input",0.0,1e-12,True
+"periodic, nearest: raw symmetry",0.0,1e-12,True
+"periodic, nearest: recipient budget",0.0,1e-12,True
+"periodic, p2_R2: no self input",0.0,1e-12,True
+"periodic, p2_R2: raw symmetry",0.0,1e-12,True
+"periodic, p2_R2: recipient budget",1.3877787807814457e-17,1e-12,True
+"periodic, p2_full: no self input",0.0,1e-12,True
+"periodic, p2_full: raw symmetry",0.0,1e-12,True
+"periodic, p2_full: recipient budget",2.7755575615628914e-17,1e-12,True
+Open opposite corners distance,0.0,1e-12,True
+Periodic opposite corners distance,0.0,1e-12,True
+Inverse square at a diagonal neighbor,5.551115123125783e-17,1e-12,True
+Zero rows normalize to zero,0.0,1e-12,True
+checker: 18 E sources,0.0,0.5,True
+random_301: 18 E sources,0.0,0.5,True
+Periodic NN coefficient identity,0.0,1e-12,True
+Periodic NN exact duplicate IDs,0.0,0.5,True
+One unique result per ID,0.0,0.5,True
+All design conditions have results,0.0,0.5,True
+"Sampled gates in [0,1]",0.0,1e-08,True
+Sampled activation within reversals,0.0,1e-08,True
+Mean E current nonnegative,0.0,1e-10,True
+Mean I current nonpositive,0.0,1e-10,True
+Nearest-neighbor checker has no local E/I cancellation,0.0,1e-10,True
+Independent solvers on 0–200,4.284553156708171e-09,0.0002,True
+Independent events on 0–200,5.936726665822789e-10,0.0002,True
+Full-window tighter state integration,1.240402391911033e-08,0.002,True
+Full-window tighter event times,9.256496014131699e-09,0.002,True
