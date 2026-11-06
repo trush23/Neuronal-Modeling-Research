@@ -1,0 +1,30 @@
+check,error,limit,passed
+Four incoming neighbors,0.0,1e-12,True
+Four outgoing neighbors,0.0,1e-12,True
+No self loops,0.0,1e-12,True
+"Exact source count A101, f=0",0.0,0.5,True
+"Exact source count A101, f=0.25",0.0,0.5,True
+"Exact source count A101, f=0.5",0.0,0.5,True
+"Exact source count A101, f=0.75",0.0,0.5,True
+"Exact source count A101, f=1",0.0,0.5,True
+"Exact source count A202, f=0",0.0,0.5,True
+"Exact source count A202, f=0.25",0.0,0.5,True
+"Exact source count A202, f=0.5",0.0,0.5,True
+"Exact source count A202, f=0.75",0.0,0.5,True
+"Exact source count A202, f=1",0.0,0.5,True
+Nested inhibitory sets,0.0,0.5,True
+Fixed budget mean coefficient,1.3877787807814457e-17,1e-12,True
+Fixed E conductance,0.0,1e-12,True
+Conductance ratio construction,0.0,1e-12,True
+Ratio-one exact protocol identity,0.0,0.5,True
+Unique run table has no duplicate IDs,0.0,0.5,True
+All design rows map to a result,0.0,0.5,True
+No endpoint pseudo-replication,0.0,0.5,True
+"Sampled gates in [0,1]",0.0,1e-08,True
+Sampled activation inside reversals,0.0,1e-08,True
+Mean E input nonnegative,0.0,1e-10,True
+Mean I input nonpositive,0.0,1e-10,True
+Independent solvers on 0–200,2.8248741124059507e-09,0.0002,True
+Independent events on 0–200,1.8623893538460834e-09,0.0002,True
+Full-window tighter DOP853 states,1.3608356774774677e-08,0.002,True
+Full-window tighter DOP853 events,9.333007255918346e-09,0.002,True
